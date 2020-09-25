@@ -117,14 +117,15 @@ body {
 }
 
 .popis {
-  padding: 20px 30px 30px 30px;
+  margin: 20px 30px 0px 30px;
   font-size: 14px;
   font-weight: 400;
-  margin: 0px;
+  border-bottom: 1px solid #06d7c1;
+  padding: 0px 0px 30px 0px;
 }
 
 .parametr {
-  border-top: 1px solid #06d7c1;
+  
   margin: 0px 0px;
   padding: 30px 0px 0px 30px;
   font-size: 14px;
